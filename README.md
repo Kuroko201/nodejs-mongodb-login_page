@@ -1,2 +1,11 @@
 # nodejs-mongodb-login_page
-exercise
+Skills use: <br>
+nodejs express <br>
+bcrypt <br>
+mongodb <br>
+
+<br>
+npm init -y <br>
+npm install nodemon -g <br>
+npm i express mongoose <br>
+npm install bcrypt <br>
