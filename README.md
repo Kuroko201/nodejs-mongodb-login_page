@@ -2,7 +2,7 @@
 Skills use: <br>
 nodejs express <br>
 bcrypt <br>
-mongodb <br>
+mongoDB <br>
 
 <br>
 npm init -y <br>
